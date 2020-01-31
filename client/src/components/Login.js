@@ -12,9 +12,12 @@ const Login = (props) => {
     password:''
   })
  
-
+{/*Lambda School
+i<3Lambd4*/}
   return (
     <>
+
+    
       <h1>Welcome to the Bubble App!</h1>
       <form onSubmit={(e)=>{
         e.preventDefault();
